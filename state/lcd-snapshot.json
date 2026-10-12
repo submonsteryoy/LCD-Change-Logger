@@ -1,25 +1,8 @@
 {
   "version": 2,
-  "generated_at": "2026-10-12T01:50:18.527Z",
+  "generated_at": "2026-10-12T02:07:00.414Z",
   "source": "https://api-lcd.vercel.app/levels",
   "levels": [
-    {
-      "key": "82828282",
-      "id": "6acc30261540e0aecba7a8ec",
-      "level_id": 82828282,
-      "title": "Test",
-      "creator": "Dddd",
-      "difficulty": "Ueheh",
-      "description": "",
-      "image_url": "",
-      "youtube_urls": [
-        "https://youtube.com/shorts/WXJtnKF-OJY?si=1FmxXKELdexbpy4O"
-      ],
-      "beaten_by": [
-        "xnoo"
-      ],
-      "rank": 1
-    },
     {
       "key": "88244926",
       "id": "6a93c66c7dfcbf100ecb8feb",
@@ -35,7 +18,7 @@
       "beaten_by": [
         "TheCone"
       ],
-      "rank": 2
+      "rank": 1
     },
     {
       "key": "68848817",
@@ -52,7 +35,7 @@
       "beaten_by": [
         "victor"
       ],
-      "rank": 3
+      "rank": 2
     },
     {
       "key": "10565740",
@@ -69,7 +52,7 @@
       "beaten_by": [
         "SubmonsterYOY"
       ],
-      "rank": 4
+      "rank": 3
     },
     {
       "key": "86996130",
@@ -86,7 +69,7 @@
       "beaten_by": [
         "TheCone"
       ],
-      "rank": 5
+      "rank": 4
     },
     {
       "key": "0",
@@ -103,7 +86,7 @@
       "beaten_by": [
         "TheCone"
       ],
-      "rank": 6
+      "rank": 5
     },
     {
       "key": "119653522",
@@ -120,7 +103,7 @@
       "beaten_by": [
         "TheCone"
       ],
-      "rank": 7
+      "rank": 6
     },
     {
       "key": "20761188",
@@ -139,7 +122,7 @@
         "SubmonsterYOY",
         "Victor"
       ],
-      "rank": 8
+      "rank": 7
     },
     {
       "key": "63775846",
@@ -156,7 +139,7 @@
       "beaten_by": [
         "TheCone"
       ],
-      "rank": 9
+      "rank": 8
     },
     {
       "key": "3979721",
@@ -177,7 +160,7 @@
         "AleqGD",
         "RG"
       ],
-      "rank": 10
+      "rank": 9
     },
     {
       "key": "62214792",
@@ -196,7 +179,7 @@
         "randomperson435",
         "TheCone"
       ],
-      "rank": 11
+      "rank": 10
     },
     {
       "key": "87425029",
@@ -214,7 +197,7 @@
         "randomperson435",
         "Victor"
       ],
-      "rank": 12
+      "rank": 11
     },
     {
       "key": "81148582",
@@ -231,7 +214,7 @@
       "beaten_by": [
         "ErickXd"
       ],
-      "rank": 13
+      "rank": 12
     },
     {
       "key": "61079355",
@@ -251,7 +234,7 @@
         "randomperson435",
         "AleqGD"
       ],
-      "rank": 14
+      "rank": 13
     },
     {
       "key": "146399247",
@@ -267,6 +250,23 @@
       ],
       "beaten_by": [
         "xnoo"
+      ],
+      "rank": 14
+    },
+    {
+      "key": "62809982",
+      "id": "6acc404699a4bcc3460e50e1",
+      "level_id": 62809982,
+      "title": "Thanatophobia",
+      "creator": "ARtu",
+      "difficulty": "Insane Demon",
+      "description": "10/10",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/-PClYRMzE6c?si=Iewv7qIHEq-9jKPO"
+      ],
+      "beaten_by": [
+        "JoZay"
       ],
       "rank": 15
     }
