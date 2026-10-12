@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-12T16:15:21.918Z",
+  "generated_at": "2026-10-12T16:20:18.719Z",
   "source": "https://api-lcd.vercel.app/levels",
   "levels": [
     {
@@ -38,23 +38,6 @@
       "rank": 2
     },
     {
-      "key": "86996130",
-      "id": "6a93c79e7c351d0619db43d4",
-      "level_id": 86996130,
-      "title": "ETERNAL",
-      "creator": "Ivyteal",
-      "difficulty": "Extreme Demon",
-      "description": "Skidi",
-      "image_url": "",
-      "youtube_urls": [
-        "https://www.youtube.com/watch?v=DB4ZDmj5_9g"
-      ],
-      "beaten_by": [
-        "TheCone"
-      ],
-      "rank": 3
-    },
-    {
       "key": "10565740",
       "id": "6ac99a290f899178fc758e7f",
       "level_id": 10565740,
@@ -68,6 +51,23 @@
       ],
       "beaten_by": [
         "SubmonsterYOY"
+      ],
+      "rank": 3
+    },
+    {
+      "key": "86996130",
+      "id": "6a93c79e7c351d0619db43d4",
+      "level_id": 86996130,
+      "title": "ETERNAL",
+      "creator": "Ivyteal",
+      "difficulty": "Extreme Demon",
+      "description": "Skidi",
+      "image_url": "",
+      "youtube_urls": [
+        "https://www.youtube.com/watch?v=DB4ZDmj5_9g"
+      ],
+      "beaten_by": [
+        "TheCone"
       ],
       "rank": 4
     },
