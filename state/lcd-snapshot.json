@@ -1,0 +1,274 @@
+{
+  "version": 2,
+  "generated_at": "2026-10-12T01:50:18.527Z",
+  "source": "https://api-lcd.vercel.app/levels",
+  "levels": [
+    {
+      "key": "82828282",
+      "id": "6acc30261540e0aecba7a8ec",
+      "level_id": 82828282,
+      "title": "Test",
+      "creator": "Dddd",
+      "difficulty": "Ueheh",
+      "description": "",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtube.com/shorts/WXJtnKF-OJY?si=1FmxXKELdexbpy4O"
+      ],
+      "beaten_by": [
+        "xnoo"
+      ],
+      "rank": 1
+    },
+    {
+      "key": "88244926",
+      "id": "6a93c66c7dfcbf100ecb8feb",
+      "level_id": 88244926,
+      "title": "Misfire",
+      "creator": "Galaxxyss",
+      "difficulty": "Extreme Demon",
+      "description": "w level",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/v-b26-Iw31g?si=OGY1Zl3xgay8re_F"
+      ],
+      "beaten_by": [
+        "TheCone"
+      ],
+      "rank": 2
+    },
+    {
+      "key": "68848817",
+      "id": "6a93c6e5f1e2b560ce30a402",
+      "level_id": 68848817,
+      "title": "Moment",
+      "creator": "Lexycat",
+      "difficulty": "Extreme Demon",
+      "description": "Moment is at 820 in the aredl",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/bLfKsN4NCNY?is=rk673DC8XTc5yH2p"
+      ],
+      "beaten_by": [
+        "victor"
+      ],
+      "rank": 3
+    },
+    {
+      "key": "10565740",
+      "id": "6ac99a290f899178fc758e7f",
+      "level_id": 10565740,
+      "title": "Bloodbath",
+      "creator": "Riot",
+      "difficulty": "Extreme Demon",
+      "description": "",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/VrWDMSLyJ4U?si=SKVQhpgfvB11uuAU"
+      ],
+      "beaten_by": [
+        "SubmonsterYOY"
+      ],
+      "rank": 4
+    },
+    {
+      "key": "86996130",
+      "id": "6a93c79e7c351d0619db43d4",
+      "level_id": 86996130,
+      "title": "ETERNAL",
+      "creator": "Ivyteal",
+      "difficulty": "Extreme Demon",
+      "description": "Skidi",
+      "image_url": "",
+      "youtube_urls": [
+        "https://www.youtube.com/watch?v=DB4ZDmj5_9g"
+      ],
+      "beaten_by": [
+        "TheCone"
+      ],
+      "rank": 5
+    },
+    {
+      "key": "0",
+      "id": "6a93b959c72a4ae2d8c32c7b",
+      "level_id": 0,
+      "title": "Cat Planet",
+      "creator": "Icedcave",
+      "difficulty": "Extreme Demon",
+      "description": "peak asf",
+      "image_url": "",
+      "youtube_urls": [
+        "https://www.youtube.com/watch?v=vsJydVdHZQo"
+      ],
+      "beaten_by": [
+        "TheCone"
+      ],
+      "rank": 6
+    },
+    {
+      "key": "119653522",
+      "id": "6ac924bc7cd8140d832c6468",
+      "level_id": 119653522,
+      "title": "Steel Terrors",
+      "creator": "DreamZoneGD",
+      "difficulty": "Extreme demon",
+      "description": "Aura",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/J-fWHZhfB9E?is=xd6gSrK1JNtTkBAF"
+      ],
+      "beaten_by": [
+        "TheCone"
+      ],
+      "rank": 7
+    },
+    {
+      "key": "20761188",
+      "id": "6a9279fc54d01cec967c556f",
+      "level_id": 20761188,
+      "title": "Allegiance",
+      "creator": "Nikroplays",
+      "difficulty": "Extreme Demon",
+      "description": "Worst level oat",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/_DfXBuCJCYM?si=CgPLgN7jBgl5VNGu",
+        "https://youtu.be/AuwMrsaiDjU?si=OZPHs01j-PtFpej2"
+      ],
+      "beaten_by": [
+        "SubmonsterYOY",
+        "Victor"
+      ],
+      "rank": 8
+    },
+    {
+      "key": "63775846",
+      "id": "6a93c87da72952025cf24b72",
+      "level_id": 63775846,
+      "title": "Forbidden Isle",
+      "creator": "Sillow",
+      "difficulty": "Extreme Demon",
+      "description": "Trash",
+      "image_url": "",
+      "youtube_urls": [
+        "https://www.youtube.com/watch?v=8Xq6_1ozm3k"
+      ],
+      "beaten_by": [
+        "TheCone"
+      ],
+      "rank": 9
+    },
+    {
+      "key": "3979721",
+      "id": "6a927a3419c5d9f936dd2fc9",
+      "level_id": 3979721,
+      "title": "Cataclysm",
+      "creator": "GGboy",
+      "difficulty": "Extreme Demon",
+      "description": "Mid level tbf",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/J90L73YOR3k?is=UIw9ZY--f0h8oDka",
+        "https://www.youtube.com/watch?v=927kMpRZDCw"
+      ],
+      "beaten_by": [
+        "SubmonsterYOY",
+        "xnoo",
+        "AleqGD",
+        "RG"
+      ],
+      "rank": 10
+    },
+    {
+      "key": "62214792",
+      "id": "6a92fa9b9225375faa5a0809",
+      "level_id": 62214792,
+      "title": "Azurite",
+      "creator": "Sillow",
+      "difficulty": "Extreme Demon",
+      "description": "",
+      "image_url": "",
+      "youtube_urls": [
+        "https://www.youtube.com/watch?v=aH_ikb5HHdU",
+        "https://youtu.be/yotikpMc648?si=ffp-wuTnr7Cxxz9i"
+      ],
+      "beaten_by": [
+        "randomperson435",
+        "TheCone"
+      ],
+      "rank": 11
+    },
+    {
+      "key": "87425029",
+      "id": "6a92f93b8194b272a6a51749",
+      "level_id": 87425029,
+      "title": "Niwa",
+      "creator": "Teno",
+      "difficulty": "Extreme Demon",
+      "description": "",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/Ze3c5kRvBLU?is=s-Sxc5Teal4lc-id"
+      ],
+      "beaten_by": [
+        "randomperson435",
+        "Victor"
+      ],
+      "rank": 12
+    },
+    {
+      "key": "81148582",
+      "id": "6a927d30d12f9821f993461c",
+      "level_id": 81148582,
+      "title": "Sweater Weather",
+      "creator": "VelYT",
+      "difficulty": "Extreme Demon",
+      "description": "",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/Hqc4CQh6R0Q?si=Shgx6Rfmg4MabbYQ"
+      ],
+      "beaten_by": [
+        "ErickXd"
+      ],
+      "rank": 13
+    },
+    {
+      "key": "61079355",
+      "id": "6a927cfa4afa3a639cb7a201",
+      "level_id": 61079355,
+      "title": "Acu",
+      "creator": "NEIGEFEU",
+      "difficulty": "Extreme Demon",
+      "description": "",
+      "image_url": "",
+      "youtube_urls": [
+        "https://www.youtube.com/watch?v=vaMm_RFSnZQ&start=0",
+        "https://www.youtube.com/watch?v=ZG9jALle5Ro"
+      ],
+      "beaten_by": [
+        "ErickXd",
+        "randomperson435",
+        "AleqGD"
+      ],
+      "rank": 14
+    },
+    {
+      "key": "146399247",
+      "id": "6aa07a3529876808eec8e4ce",
+      "level_id": 146399247,
+      "title": "rauchkammer",
+      "creator": "Devilmine",
+      "difficulty": "Extreme Demon",
+      "description": "",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/-ge89eZ9_5M?is=7EoCNdIsJDFuVWTc"
+      ],
+      "beaten_by": [
+        "xnoo"
+      ],
+      "rank": 15
+    }
+  ]
+}
