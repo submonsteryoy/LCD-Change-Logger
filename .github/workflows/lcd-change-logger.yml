@@ -1,6 +1,6 @@
 name: LCD Change Logger
 
-on:
+"on":
   workflow_dispatch:
 
   schedule:
@@ -32,16 +32,25 @@ jobs:
           LCD_DATA_URL: https://api-lcd.vercel.app/levels
         run: node scripts/check-changes.mjs
 
-      - name: Save new LCD snapshot
+      - name: Save new LCD snapshot to repository
         run: |
-          if git diff --quiet; then
-            echo "No snapshot changes."
+          if [ ! -f state/lcd-snapshot.json ]; then
+            echo "Snapshot file does not exist; nothing to save."
             exit 0
           fi
 
-          git config user.name "LCD Logger"
+          git config user.name "LLL"
           git config user.email "actions@users.noreply.github.com"
 
+          # Important:
+          # git add comes BEFORE checking for changes.
+          # This makes new/untracked snapshot files detectable.
           git add state/lcd-snapshot.json
-          git commit -m "Update LCD snapshot"
+
+          if git diff --cached --quiet; then
+            echo "No snapshot changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update LCD change-logger snapshot"
           git push
