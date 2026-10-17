@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-12T16:20:18.719Z",
+  "generated_at": "2026-10-17T02:15:17.255Z",
   "source": "https://api-lcd.vercel.app/levels",
   "levels": [
     {
@@ -55,6 +55,23 @@
       "rank": 3
     },
     {
+      "key": "77008332",
+      "id": "6ad2d9d529f4e2dfa4466228",
+      "level_id": 77008332,
+      "title": "Moment",
+      "creator": "moment by Kazagd",
+      "difficulty": "extreme demon",
+      "description": "somehow harder than bloodbath",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/GMJg6152MJg?si=2vBrxlh-8hDKn8ef"
+      ],
+      "beaten_by": [
+        "victor"
+      ],
+      "rank": 4
+    },
+    {
       "key": "86996130",
       "id": "6a93c79e7c351d0619db43d4",
       "level_id": 86996130,
@@ -69,7 +86,7 @@
       "beaten_by": [
         "TheCone"
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "key": "0",
@@ -86,7 +103,7 @@
       "beaten_by": [
         "TheCone"
       ],
-      "rank": 5
+      "rank": 6
     },
     {
       "key": "119653522",
@@ -103,7 +120,7 @@
       "beaten_by": [
         "TheCone"
       ],
-      "rank": 6
+      "rank": 7
     },
     {
       "key": "20761188",
@@ -122,7 +139,7 @@
         "SubmonsterYOY",
         "Victor"
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "key": "63775846",
@@ -139,7 +156,7 @@
       "beaten_by": [
         "TheCone"
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "key": "3979721",
@@ -160,7 +177,7 @@
         "AleqGD",
         "RG"
       ],
-      "rank": 9
+      "rank": 10
     },
     {
       "key": "62214792",
@@ -179,7 +196,7 @@
         "randomperson435",
         "TheCone"
       ],
-      "rank": 10
+      "rank": 11
     },
     {
       "key": "87425029",
@@ -197,7 +214,7 @@
         "randomperson435",
         "Victor"
       ],
-      "rank": 11
+      "rank": 12
     },
     {
       "key": "81148582",
@@ -214,7 +231,7 @@
       "beaten_by": [
         "ErickXd"
       ],
-      "rank": 12
+      "rank": 13
     },
     {
       "key": "61079355",
@@ -234,7 +251,7 @@
         "randomperson435",
         "AleqGD"
       ],
-      "rank": 13
+      "rank": 14
     },
     {
       "key": "146399247",
@@ -250,23 +267,6 @@
       ],
       "beaten_by": [
         "xnoo"
-      ],
-      "rank": 14
-    },
-    {
-      "key": "62809982",
-      "id": "6acc404699a4bcc3460e50e1",
-      "level_id": 62809982,
-      "title": "Thanatophobia",
-      "creator": "ARtu",
-      "difficulty": "Insane Demon",
-      "description": "10/10",
-      "image_url": "",
-      "youtube_urls": [
-        "https://youtu.be/-PClYRMzE6c?si=Iewv7qIHEq-9jKPO"
-      ],
-      "beaten_by": [
-        "JoZay"
       ],
       "rank": 15
     }
