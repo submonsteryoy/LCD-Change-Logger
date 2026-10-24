@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-24T05:37:12.927Z",
+  "generated_at": "2026-10-24T20:17:12.391Z",
   "source": "https://api-lcd.vercel.app/levels",
   "levels": [
     {
@@ -134,14 +134,15 @@
       "description": "Mid level tbf",
       "image_url": "",
       "youtube_urls": [
-        "https://youtu.be/J90L73YOR3k?is=UIw9ZY--f0h8oDka",
-        "https://www.youtube.com/watch?v=927kMpRZDCw"
+        "https://www.youtube.com/watch?v=927kMpRZDCw",
+        "https://www.youtube.com/watch?v=1OCjEvBED0w"
       ],
       "beaten_by": [
         "SubmonsterYOY",
         "xnoo",
         "AleqGD",
-        "RG"
+        "RG",
+        "ErickXd"
       ],
       "rank": 8
     },
@@ -255,7 +256,7 @@
     },
     {
       "key": "62809982",
-      "id": "6ad2dbd6adb861d0a885c535",
+      "id": "6adc4d03ede361bda8dce5f7",
       "level_id": 62809982,
       "title": "Thanatophobia",
       "creator": "ARtu",
