@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-17T20:15:17.693Z",
+  "generated_at": "2026-10-24T05:37:12.927Z",
   "source": "https://api-lcd.vercel.app/levels",
   "levels": [
     {
@@ -125,23 +125,6 @@
       "rank": 7
     },
     {
-      "key": "63775846",
-      "id": "6a93c87da72952025cf24b72",
-      "level_id": 63775846,
-      "title": "Forbidden Isle",
-      "creator": "Sillow",
-      "difficulty": "Extreme Demon",
-      "description": "Trash",
-      "image_url": "",
-      "youtube_urls": [
-        "https://www.youtube.com/watch?v=8Xq6_1ozm3k"
-      ],
-      "beaten_by": [
-        "TheCone"
-      ],
-      "rank": 8
-    },
-    {
       "key": "3979721",
       "id": "6a927a3419c5d9f936dd2fc9",
       "level_id": 3979721,
@@ -159,6 +142,23 @@
         "xnoo",
         "AleqGD",
         "RG"
+      ],
+      "rank": 8
+    },
+    {
+      "key": "63775846",
+      "id": "6a93c87da72952025cf24b72",
+      "level_id": 63775846,
+      "title": "Forbidden Isle",
+      "creator": "Sillow",
+      "difficulty": "Extreme Demon",
+      "description": "Trash",
+      "image_url": "",
+      "youtube_urls": [
+        "https://www.youtube.com/watch?v=8Xq6_1ozm3k"
+      ],
+      "beaten_by": [
+        "TheCone"
       ],
       "rank": 9
     },
