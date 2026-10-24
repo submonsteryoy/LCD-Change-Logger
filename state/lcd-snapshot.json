@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-24T20:17:12.391Z",
+  "generated_at": "2026-10-24T20:19:13.343Z",
   "source": "https://api-lcd.vercel.app/levels",
   "levels": [
     {
@@ -135,7 +135,8 @@
       "image_url": "",
       "youtube_urls": [
         "https://www.youtube.com/watch?v=927kMpRZDCw",
-        "https://www.youtube.com/watch?v=1OCjEvBED0w"
+        "https://www.youtube.com/watch?v=1OCjEvBED0w",
+        "https://youtu.be/aRANSKG9sfQ?si=NVUOdg0co1Mlri_E"
       ],
       "beaten_by": [
         "SubmonsterYOY",
