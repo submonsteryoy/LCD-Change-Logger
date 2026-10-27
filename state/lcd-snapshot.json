@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-24T20:19:13.343Z",
+  "generated_at": "2026-10-27T18:22:16.420Z",
   "source": "https://api-lcd.vercel.app/levels",
   "levels": [
     {
@@ -219,6 +219,21 @@
       "rank": 12
     },
     {
+      "key": "141662502",
+      "id": "6ae0ebc82a1fb16aa2706b9c",
+      "level_id": 141662502,
+      "title": "Lone",
+      "creator": "Thazm",
+      "difficulty": "Extreme Demon",
+      "description": "",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/mgNqq-mSB14?is=1DSnTgEZ_qZqWSyN"
+      ],
+      "beaten_by": [],
+      "rank": 13
+    },
+    {
       "key": "61079355",
       "id": "6a927cfa4afa3a639cb7a201",
       "level_id": 61079355,
@@ -236,7 +251,7 @@
         "randomperson435",
         "AleqGD"
       ],
-      "rank": 13
+      "rank": 14
     },
     {
       "key": "146399247",
@@ -252,23 +267,6 @@
       ],
       "beaten_by": [
         "xnoo"
-      ],
-      "rank": 14
-    },
-    {
-      "key": "62809982",
-      "id": "6adc4d03ede361bda8dce5f7",
-      "level_id": 62809982,
-      "title": "Thanatophobia",
-      "creator": "ARtu",
-      "difficulty": "Insane Demon",
-      "description": "10/10",
-      "image_url": "",
-      "youtube_urls": [
-        "https://youtu.be/-PClYRMzE6c?si=Iewv7qIHEq-9jKPO"
-      ],
-      "beaten_by": [
-        "JoZay"
       ],
       "rank": 15
     }
