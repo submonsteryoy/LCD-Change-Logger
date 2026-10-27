@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-27T18:22:16.420Z",
+  "generated_at": "2026-10-27T18:24:14.746Z",
   "source": "https://api-lcd.vercel.app/levels",
   "levels": [
     {
@@ -202,6 +202,21 @@
       "rank": 11
     },
     {
+      "key": "141662502",
+      "id": "6ae0ebc82a1fb16aa2706b9c",
+      "level_id": 141662502,
+      "title": "Lone",
+      "creator": "Thazm",
+      "difficulty": "Extreme Demon",
+      "description": "",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/mgNqq-mSB14?is=1DSnTgEZ_qZqWSyN"
+      ],
+      "beaten_by": [],
+      "rank": 12
+    },
+    {
       "key": "81148582",
       "id": "6a927d30d12f9821f993461c",
       "level_id": 81148582,
@@ -216,21 +231,6 @@
       "beaten_by": [
         "ErickXd"
       ],
-      "rank": 12
-    },
-    {
-      "key": "141662502",
-      "id": "6ae0ebc82a1fb16aa2706b9c",
-      "level_id": 141662502,
-      "title": "Lone",
-      "creator": "Thazm",
-      "difficulty": "Extreme Demon",
-      "description": "",
-      "image_url": "",
-      "youtube_urls": [
-        "https://youtu.be/mgNqq-mSB14?is=1DSnTgEZ_qZqWSyN"
-      ],
-      "beaten_by": [],
       "rank": 13
     },
     {
