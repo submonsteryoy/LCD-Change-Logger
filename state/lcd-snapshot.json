@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-28T03:06:16.615Z",
+  "generated_at": "2026-10-28T03:07:12.355Z",
   "source": "https://api-lcd.vercel.app/levels",
   "levels": [
     {
@@ -238,23 +238,6 @@
       "rank": 13
     },
     {
-      "key": "146399247",
-      "id": "6aa07a3529876808eec8e4ce",
-      "level_id": 146399247,
-      "title": "rauchkammer",
-      "creator": "Devilmine",
-      "difficulty": "Extreme Demon",
-      "description": "",
-      "image_url": "",
-      "youtube_urls": [
-        "https://youtu.be/-ge89eZ9_5M?is=7EoCNdIsJDFuVWTc"
-      ],
-      "beaten_by": [
-        "xnoo"
-      ],
-      "rank": 14
-    },
-    {
       "key": "62809982",
       "id": "6ae1668a9274ad24aa608f51",
       "level_id": 62809982,
@@ -267,6 +250,24 @@
         "https://youtu.be/-PClYRMzE6c?si=Iewv7qIHEq-9jKPO"
       ],
       "beaten_by": [
+        "JoZay"
+      ],
+      "rank": 14
+    },
+    {
+      "key": "73725400",
+      "id": "6ae166c66565b264382aa830",
+      "level_id": 73725400,
+      "title": "Crazy III",
+      "creator": "DavJT",
+      "difficulty": "Insane Demon",
+      "description": "\"That's crazy. You know what's crazy too? You even beat Crazy III.\" - Sailent",
+      "image_url": "",
+      "youtube_urls": [
+        "https://www.youtube.com/watch?v=1ynspvn8KSs"
+      ],
+      "beaten_by": [
+        "SubmonsterYOY",
         "JoZay"
       ],
       "rank": 15
