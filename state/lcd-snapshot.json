@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-31T07:57:13.202Z",
+  "generated_at": "2026-10-31T07:58:15.745Z",
   "source": "https://api-lcd.vercel.app/levels",
   "levels": [
     {
@@ -13,10 +13,12 @@
       "description": "w level",
       "image_url": "",
       "youtube_urls": [
-        "https://youtu.be/v-b26-Iw31g?si=OGY1Zl3xgay8re_F"
+        "https://youtu.be/v-b26-Iw31g?si=OGY1Zl3xgay8re_F",
+        "https://www.youtube.com/watch?v=7uS1lY2L8uQ"
       ],
       "beaten_by": [
-        "TheCone"
+        "TheCone",
+        "dogemaster"
       ],
       "rank": 1
     },
