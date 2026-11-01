@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-01T07:07:12.421Z",
+  "generated_at": "2026-11-01T07:20:17.405Z",
   "source": "https://api-lcd.vercel.app/levels",
   "levels": [
     {
@@ -179,28 +179,9 @@
         "https://youtu.be/yotikpMc648?si=ffp-wuTnr7Cxxz9i"
       ],
       "beaten_by": [
-        "randomperson435",
         "TheCone"
       ],
       "rank": 10
-    },
-    {
-      "key": "87425029",
-      "id": "6a92f93b8194b272a6a51749",
-      "level_id": 87425029,
-      "title": "Niwa",
-      "creator": "Teno",
-      "difficulty": "Extreme Demon",
-      "description": "",
-      "image_url": "",
-      "youtube_urls": [
-        "https://youtu.be/Ze3c5kRvBLU?is=s-Sxc5Teal4lc-id"
-      ],
-      "beaten_by": [
-        "randomperson435",
-        "Victor"
-      ],
-      "rank": 11
     },
     {
       "key": "81148582",
@@ -217,7 +198,7 @@
       "beaten_by": [
         "ErickXd"
       ],
-      "rank": 12
+      "rank": 11
     },
     {
       "key": "61079355",
@@ -237,7 +218,7 @@
         "randomperson435",
         "AleqGD"
       ],
-      "rank": 13
+      "rank": 12
     },
     {
       "key": "62809982",
@@ -254,7 +235,7 @@
       "beaten_by": [
         "JoZay"
       ],
-      "rank": 14
+      "rank": 13
     },
     {
       "key": "73725400",
@@ -271,6 +252,23 @@
       "beaten_by": [
         "SubmonsterYOY",
         "JoZay"
+      ],
+      "rank": 14
+    },
+    {
+      "key": "14145098",
+      "id": "6ae6e7e1c161dc53bc893443",
+      "level_id": 14145098,
+      "title": "Invisible Deadlocked",
+      "creator": "KrmaL",
+      "difficulty": "Insane Demon",
+      "description": "hard",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/rjPllZX4FHI?is=FezLBqDkKcb1-Pav"
+      ],
+      "beaten_by": [
+        "xnoo"
       ],
       "rank": 15
     }
