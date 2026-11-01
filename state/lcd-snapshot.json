@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-31T07:58:15.745Z",
+  "generated_at": "2026-11-01T07:05:17.183Z",
   "source": "https://api-lcd.vercel.app/levels",
   "levels": [
     {
@@ -14,7 +14,8 @@
       "image_url": "",
       "youtube_urls": [
         "https://youtu.be/v-b26-Iw31g?si=OGY1Zl3xgay8re_F",
-        "https://www.youtube.com/watch?v=7uS1lY2L8uQ"
+        "https://www.youtube.com/watch?v=7uS1lY2L8uQ",
+        "https://youtube.com/shorts/J9wkp20D1iQ?si=8_ZKq6EZHi5dZpzD"
       ],
       "beaten_by": [
         "TheCone",
