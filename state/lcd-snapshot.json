@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-03T16:57:14.352Z",
+  "generated_at": "2026-11-03T17:03:13.666Z",
   "source": "https://api-lcd.vercel.app/levels",
   "levels": [
     {
@@ -18,8 +18,7 @@
       ],
       "beaten_by": [
         "TheCone",
-        "dogemaster",
-        "Submonstergyatt"
+        "dogemaster"
       ],
       "rank": 1
     },
