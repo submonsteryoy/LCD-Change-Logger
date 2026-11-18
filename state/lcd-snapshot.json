@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-03T17:03:13.666Z",
+  "generated_at": "2026-11-18T13:53:16.916Z",
   "source": "https://api-lcd.vercel.app/levels",
   "levels": [
     {
@@ -23,9 +23,9 @@
       "rank": 1
     },
     {
-      "key": "77008332",
+      "key": "68848817",
       "id": "6ad2d9d529f4e2dfa4466228",
-      "level_id": 77008332,
+      "level_id": 68848817,
       "title": "Moment",
       "creator": "moment by Kazagd",
       "difficulty": "extreme demon",
@@ -38,6 +38,23 @@
         "victor"
       ],
       "rank": 2
+    },
+    {
+      "key": "77008332",
+      "id": "6afdadc8a78defcce7c58220",
+      "level_id": 77008332,
+      "title": "Gravity",
+      "creator": "KazaGD",
+      "difficulty": "Extreme demon",
+      "description": "Moment Sequel.<3",
+      "image_url": "",
+      "youtube_urls": [
+        "https://www.youtube.com/watch?v=EQZHNRB_zl0"
+      ],
+      "beaten_by": [
+        "slopsta"
+      ],
+      "rank": 3
     },
     {
       "key": "10565740",
@@ -54,7 +71,7 @@
       "beaten_by": [
         "SubmonsterYOY"
       ],
-      "rank": 3
+      "rank": 4
     },
     {
       "key": "86996130",
@@ -71,7 +88,7 @@
       "beaten_by": [
         "TheCone"
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "key": "0",
@@ -88,7 +105,7 @@
       "beaten_by": [
         "TheCone"
       ],
-      "rank": 5
+      "rank": 6
     },
     {
       "key": "119653522",
@@ -105,7 +122,7 @@
       "beaten_by": [
         "TheCone"
       ],
-      "rank": 6
+      "rank": 7
     },
     {
       "key": "20761188",
@@ -124,7 +141,7 @@
         "SubmonsterYOY",
         "Victor"
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "key": "3979721",
@@ -146,7 +163,7 @@
         "RG",
         "ErickXd"
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "key": "63775846",
@@ -163,7 +180,7 @@
       "beaten_by": [
         "TheCone"
       ],
-      "rank": 9
+      "rank": 10
     },
     {
       "key": "62214792",
@@ -181,7 +198,7 @@
       "beaten_by": [
         "TheCone"
       ],
-      "rank": 10
+      "rank": 11
     },
     {
       "key": "81148582",
@@ -198,7 +215,7 @@
       "beaten_by": [
         "ErickXd"
       ],
-      "rank": 11
+      "rank": 12
     },
     {
       "key": "61079355",
@@ -218,7 +235,7 @@
         "randomperson435",
         "AleqGD"
       ],
-      "rank": 12
+      "rank": 13
     },
     {
       "key": "62809982",
@@ -235,7 +252,7 @@
       "beaten_by": [
         "JoZay"
       ],
-      "rank": 13
+      "rank": 14
     },
     {
       "key": "73725400",
@@ -252,23 +269,6 @@
       "beaten_by": [
         "SubmonsterYOY",
         "JoZay"
-      ],
-      "rank": 14
-    },
-    {
-      "key": "14145098",
-      "id": "6ae6e7e1c161dc53bc893443",
-      "level_id": 14145098,
-      "title": "Invisible Deadlocked",
-      "creator": "KrmaL",
-      "difficulty": "Insane Demon",
-      "description": "hard",
-      "image_url": "",
-      "youtube_urls": [
-        "https://youtu.be/rjPllZX4FHI?is=FezLBqDkKcb1-Pav"
-      ],
-      "beaten_by": [
-        "xnoo"
       ],
       "rank": 15
     }
