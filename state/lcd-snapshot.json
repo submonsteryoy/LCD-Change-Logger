@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-18T21:48:25.257Z",
+  "generated_at": "2026-11-19T00:21:13.450Z",
   "source": "https://api-lcd.vercel.app/levels",
   "levels": [
     {
@@ -40,23 +40,6 @@
       "rank": 2
     },
     {
-      "key": "10565740",
-      "id": "6ac99a290f899178fc758e7f",
-      "level_id": 10565740,
-      "title": "Bloodbath",
-      "creator": "Riot",
-      "difficulty": "Extreme Demon",
-      "description": "",
-      "image_url": "",
-      "youtube_urls": [
-        "https://youtu.be/VrWDMSLyJ4U?si=SKVQhpgfvB11uuAU"
-      ],
-      "beaten_by": [
-        "SubmonsterYOY"
-      ],
-      "rank": 3
-    },
-    {
       "key": "77008332",
       "id": "6afdadc8a78defcce7c58220",
       "level_id": 77008332,
@@ -70,6 +53,23 @@
       ],
       "beaten_by": [
         "slopsta"
+      ],
+      "rank": 3
+    },
+    {
+      "key": "10565740",
+      "id": "6ac99a290f899178fc758e7f",
+      "level_id": 10565740,
+      "title": "Bloodbath",
+      "creator": "Riot",
+      "difficulty": "Extreme Demon",
+      "description": "",
+      "image_url": "",
+      "youtube_urls": [
+        "https://youtu.be/VrWDMSLyJ4U?si=SKVQhpgfvB11uuAU"
+      ],
+      "beaten_by": [
+        "SubmonsterYOY"
       ],
       "rank": 4
     },
