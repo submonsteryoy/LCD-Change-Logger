@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-19T00:21:13.450Z",
+  "generated_at": "2026-11-21T07:35:21.448Z",
   "source": "https://api-lcd.vercel.app/levels",
   "levels": [
     {
@@ -192,7 +192,6 @@
       "description": "",
       "image_url": "",
       "youtube_urls": [
-        "https://www.youtube.com/watch?v=aH_ikb5HHdU",
         "https://youtu.be/yotikpMc648?si=ffp-wuTnr7Cxxz9i"
       ],
       "beaten_by": [
